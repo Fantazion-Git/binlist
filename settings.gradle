@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "binlist"
 include ':app'
-include ':retrofit'
